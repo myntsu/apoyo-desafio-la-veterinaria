@@ -48,13 +48,13 @@ El proyecto ya tiene una estructura base proporcionada por un desarrollador ante
 - **Lorem Picsum:** [Documentación](https://picsum.photos/)
 
 ## Tareas a Realizar
-1. **Corrige los enlaces rotos:** Encuentra y reemplaza los enlaces incorrectos a Bootstrap y jQuery.
-2. **Completa el HTML:** Añade el contenido necesario en `index.html` utilizando etiquetas semánticas.
-3. **Estiliza con CSS:** Aplica estilos en `styles.css` para hacer la página visualmente atractiva.
-4. **Añade interactividad con JS:** Implementa interactividad básica en `scripts.js`.
-5. **Utiliza jQuery:** Implementa funcionalidades básicas con jQuery.
-6. **Control de Versiones:** Realiza commits frecuentes con descripciones claras.
-7. **Publica en GitHub Pages:** Sube el proyecto a GitHub y publícalo utilizando GitHub Pages.
+
+1. Utiliza la referencia de la página proporcionada.
+2. Implementa Bootstrap y jQuery en el proyecto.
+3. Haz que al hacer clic en la imagen del animal con la lupa, esta se vea más grande.
+4. Al enviar el formulario de contacto, muestra una alerta.
+5. Coloca los enlaces a las redes sociales en el pie de página.
+
 
 ## Notas Finales
 Recuerda revisar y entender cada parte del código y la estructura del proyecto. Este desafío no solo te ayudará a mejorar tus habilidades técnicas, sino que también te preparará para situaciones reales en el mundo laboral. ¡Buena suerte!
